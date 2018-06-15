@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "image": "bentleyCoupe.jpg"
+    },
+    {
+      "id": 2,
+      "image": "bentleyTruck.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "camaro.jpg"
+    },
+    {
+      "id": 4,
+      "image": "challenger.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "charger.jpg"
+    },
+    {
+      "id": 6,
+      "image": "chargerY.jpg"
+    },
+    {
+      "id": 7,
+      "image": "fordGT.jpg"
+    },
+    {
+      "id": 8,
+      "image": "lamboDrop.jpg"
+    },
+    {
+      "id": 9,
+      "image": "lamboTruck.jpg"
+    },
+    {
+      "id": 10,
+      "image": "viper.jpg"
+    }
+  ]
+  
