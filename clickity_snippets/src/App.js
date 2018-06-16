@@ -44,9 +44,9 @@ class App extends Component {
           ),
           score: this.state.score + 1
         },
-//if you get all 12 cars corrent you get a congrats message and the game resets        
+//if you get all 10 cars corrent you get a congrats message and the game resets        
         () => {
-          if (this.state.score === 12) {
+          if (this.state.score === 10) {
             alert("Yay! You Win!");
             this.setState({
               cars: this.state.cars.sort(function(a, b) {
